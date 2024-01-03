@@ -10,7 +10,7 @@
   
 ## 🐍 GitHub Snake
 
-[![](https://github.com/FeiNiaoBF/FeiNiaoBF/blob/output/github-contribution-grid-snake-dark.svg)]
+![Snake](https://github.com/FeiNiaoBF/FeiNiaoBF/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
